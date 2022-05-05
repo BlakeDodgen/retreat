@@ -1,0 +1,14 @@
+@font-face {
+    font-family: FomtheWoods;
+    src: url(fonts/FromtheWoods-Regular.woff2);
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+
+h1 {
+    font-family: FomtheWoods;
+}
